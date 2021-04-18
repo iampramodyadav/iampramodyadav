@@ -17,11 +17,10 @@
 - Python (Programming Language)
 - Wolfram Mathemetica
 - Microsoft Excel
-- GeoGebra
 - Finite Element Analysis (FEA)
 - CATIA
 - Microsoft PowerPoint
-- Mathematica
+- GeoGebra
 
 #### Non-Technical
 - Good writing skills
