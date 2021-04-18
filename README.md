@@ -13,15 +13,18 @@
 - Percentage: 67.83%
 ### SKILLS
 #### Technical
-- HyperWorks
 - MATLAB
+- Python (Programming Language)
+- Wolfram Mathemetica
+- Microsoft Excel
+- GeoGebra
 - Finite Element Analysis (FEA)
 - CATIA
-- Python (Programming Language)
-- Microsoft Excel
 - Microsoft PowerPoint
 - Mathematica
-- GeoGebra
+
 #### Non-Technical
 - Good writing skills
 - Good drawing/sketching skill
+- Sketching
+- Photography
