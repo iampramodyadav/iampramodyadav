@@ -9,8 +9,7 @@
 - Overall CGPA: 8.24
 #### INTERMEDIATE | 2013| Shanti Shiksha Niketan Inter College, Ayar, Varanasi
 - Percentage: 87.40%
-#### HIGHSCHOOL | 2013| Shanti Shiksha Niketan Inter College, Ayar, Varanasi
-- Percentage: 67.83%
+
 ### SKILLS
 #### Technical
 - MATLAB
