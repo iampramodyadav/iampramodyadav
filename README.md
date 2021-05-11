@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Pramod Kumar Yadav
-<img src="https://raw.githubusercontent.com/iampramodyadav/iampramodyadav/54fbdaaa69373c5e0c0a3bfc63695763253b4556/mech-code.svg" width="300">
+<img src="https://raw.githubusercontent.com/iampramodyadav/iampramodyadav/c5f6ce960d79c3cb2be0956c1fe34dcec45d06a2/mech-code1.svg" width="300">
 
 #### About me
 -  Currently, I'm pursuing my M. Tech from IIT (BHU) Varanasi in Machine design. I have completed my B. Tech from NIT Patna as a Mechanical Engineer.
