@@ -11,6 +11,7 @@
 - <img align="left" alt="MATLAB" width="22px" src="https://simpleicons.org/icons/mathworks.svg" />  **MATLAB**
 - <img align="left" alt="Octave" width="22px" src="https://simpleicons.org/icons/octave.svg" /> **Octave**
 - <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />  **Python**
+- <img align="left" alt="MySQL" width="22px" src="https://simpleicons.org/icons/mysql.svg" />  **SQL**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Google olab" width="22px" src="https://simpleicons.org/icons/googlecolab.svg" /> **Google Colab**
 - <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> **GitHub**
