@@ -6,7 +6,7 @@
 #### About me
 -  Currently, I'm pursuing my M. Tech from IIT (BHU) Varanasi in Machine design. I have completed my B. Tech from NIT Patna as a Mechanical Engineer.
 -  I'm a research-oriented and curious person. I have also a great interest in programming, art and mathematics.
--  Matlab application developer.
+-  I'm interested in CAE, CAD and FEA
 -  Currently learning machine learning, data science and SQL.
 
 ---
