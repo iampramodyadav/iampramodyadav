@@ -1,10 +1,8 @@
 ### Hi there 👋 I am Pramod Kumar Yadav
 <img src="https://raw.githubusercontent.com/iampramodyadav/iampramodyadav/c5f6ce960d79c3cb2be0956c1fe34dcec45d06a2/mech-code1.svg" width="300">
-
 ---
 
 #### About me
--  Currently, I'm pursuing my M. Tech from IIT (BHU) Varanasi in Machine design. I have completed my B. Tech from NIT Patna as a Mechanical Engineer.
 -  I'm a research-oriented and curious person. I have also a great interest in programming, art and mathematics.
 -  I'm interested in CAE, CAD and FEA
 -  Currently learning machine learning, data science and SQL.
@@ -25,3 +23,60 @@
 - <img align="left" alt="Atom" width="22px" src="https://simpleicons.org/icons/atom.svg" />  **Atom**
 - <img align="left" alt="Tableau" width="22px" src="https://simpleicons.org/icons/tableau.svg" />  **Tableau**
 ---
+
+## WORK EXPERIENCE
+
+* **Solution Designer**
+    * Siemens Gamesa Renewable Power Limited
+    * Varanasi, Uttar Pradesh
+    * July 2022 - Present
+* **Intern**
+    * HyperMesh Core Development QA team at Altair Engineering India Pvt. Ltd.
+    * Pune, Maharashtra
+    * December 2021 - May 2022
+
+## SKILLS
+
+* FEA
+* CAE
+* Programming
+* Python
+* MATLAB
+* TCL
+* ANSYS APDL
+* Abaqus
+* HyperMesh
+* OptiStruct
+
+## EDUCATION
+
+* **Master of Technology (Machine Design)**
+    * Indian Institute of Technology (BHU), Varanasi
+    * Gold medalist
+    * 2022
+* **Bachelor of Technology (Mechanical Engineering)**
+    * National Institute of Technology, Patna
+    * 2018
+
+## CERTIFICATIONS
+
+* Machine Learning (Stanford University on Coursera)
+* Python for Data Science, AI & Development (Coursera)
+* Python for Data Structures, Algorithms (Udemy)
+* Mastering Programming with MATLAB (VANDERBILT UNIVERSITY on Coursera)
+* Databases and SQL for Data Science with Python (IBM on Coursera)
+* Data Visualization and Communication with Tableau (Duke University on Coursera)
+* HyperMesh 2019 Intermediate Examination (Altair University)
+* Linear &Non-Linear Analysis with OptiStruct Advanced Examination (Altair University)
+* Abaqus CAE: Learn Static and Dynamic Analysis (Udemy)
+* Geometric Dimensioning and Tolerancing (GD&T): Basics (Udemy)
+
+## ACHIEVEMENTS
+
+* Gold Medal for coming in first position at the M.Tech in Mechanical Engineering (Machine Design) Examination
+
+## HOBBIES
+
+* Sketching
+* Poetry
+* Farming
