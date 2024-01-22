@@ -37,17 +37,14 @@
 
 ## SKILLS
 
-* FEA
-* CAE
 * Programming
 * Python
 * MATLAB
 * TCL
 * ANSYS APDL
-* Abaqus
-* HyperMesh
-* OptiStruct
-
+* FEA
+* CAE
+  
 ## EDUCATION
 
 * **Master of Technology (Machine Design)**
@@ -73,7 +70,7 @@
 
 ## ACHIEVEMENTS
 
-* Gold Medal for coming in first position at the M.Tech in Mechanical Engineering (Machine Design) Examination
+* **Gold Medal** for coming in first position at the M.Tech in Mechanical Engineering (Machine Design) Examination
 
 ## HOBBIES
 
