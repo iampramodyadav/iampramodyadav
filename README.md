@@ -22,6 +22,7 @@
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
 - <img align="left" alt="Atom" width="22px" src="https://simpleicons.org/icons/atom.svg" />  **Atom**
 - <img align="left" alt="Tableau" width="22px" src="https://simpleicons.org/icons/tableau.svg" />  **Tableau**
+  
 ---
 
 ## WORK EXPERIENCE
