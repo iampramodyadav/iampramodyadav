@@ -28,11 +28,9 @@
 
 * **Solution Designer**
     * Siemens Gamesa Renewable Power Limited
-    * Varanasi, Uttar Pradesh
     * July 2022 - Present
 * **Intern**
     * HyperMesh Core Development QA team at Altair Engineering India Pvt. Ltd.
-    * Pune, Maharashtra
     * December 2021 - May 2022
 
 ## SKILLS
@@ -68,12 +66,7 @@
 * Abaqus CAE: Learn Static and Dynamic Analysis (Udemy)
 * Geometric Dimensioning and Tolerancing (GD&T): Basics (Udemy)
 
-## ACHIEVEMENTS
-
-* **Gold Medal** for coming in first position at the M.Tech in Mechanical Engineering (Machine Design) Examination
-
 ## HOBBIES
-
 * Sketching
 * Poetry
 * Farming
