@@ -37,6 +37,8 @@
 
 * Programming
 * Python
+* SQL
+* C++
 * MATLAB
 * TCL
 * ANSYS APDL
