@@ -4,7 +4,6 @@
 
 #### About me
 -  I'm a research-oriented and curious person. I have also a great interest in programming, art and mathematics.
--  Interested in CAE, coding and FEA
 -  Currently learning machine learning, data science and SQL.
 
 ---
