@@ -4,7 +4,7 @@
 
 #### About me
 -  I'm a research-oriented and curious person. I have also a great interest in programming, art and mathematics.
--  Currently learning machine learning, data science and SQL.
+-  Currently learning machine learning
 
 ---
 
@@ -70,4 +70,8 @@
 ## HOBBIES
 * Sketching
 * Poetry
-* Farming
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampramodyadav&show_icons=true&locale=en&layout=compact" alt="iampramodyadav" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampramodyadav&" alt="iampramodyadav" /></p>
+
