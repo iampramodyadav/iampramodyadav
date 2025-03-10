@@ -1,77 +1,21 @@
 ### Hi there 👋 I am Pramod Kumar Yadav
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iampramodyadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iampramodyadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iampramodyadav) 
+
 <img src="https://raw.githubusercontent.com/iampramodyadav/iampramodyadav/c5f6ce960d79c3cb2be0956c1fe34dcec45d06a2/mech-code1.svg" width="300">
----
-
-#### About me
--  I'm a research-oriented and curious person. I have also a great interest in programming, art and mathematics.
--  Currently learning machine learning
 
 ---
 
-#### Programming Language and Tools
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-- <img align="left" alt="MATLAB" width="22px" src="https://github.com/iampramodyadav/iampramodyadav/blob/main/mathworks.svg" />  **MATLAB**
-- <img align="left" alt="Octave" width="22px" src="https://simpleicons.org/icons/octave.svg" /> **Octave**
-- <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />  **Python**
-- <img align="left" alt="MySQL" width="22px" src="https://simpleicons.org/icons/mysql.svg" />  **SQL**
-- <img align="left" alt="Jupyter Notebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" /> **Jupyter NoteBook**
-- <img align="left" alt="Google olab" width="22px" src="https://simpleicons.org/icons/googlecolab.svg" /> **Google Colab**
-- <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> **GitHub**
-- <img align="left" alt="Spyder" width="22px" src="https://simpleicons.org/icons/spyderide.svg" /> **Spyder**
-- <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
-- <img align="left" alt="Tableau" width="22px" src="https://simpleicons.org/icons/tableau.svg" />  **Tableau**
-  
 ---
 
-## WORK EXPERIENCE
+![](https://github-readme-stats.vercel.app/api?username=iampramodyadav&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iampramodyadav&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iampramodyadav&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=iampramodyadav&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
-* **Solution Designer**
-    * Siemens Gamesa Renewable Power Limited
-    * July 2022 - Present
-* **Intern**
-    * HyperMesh Core Development QA team at Altair Engineering India Pvt. Ltd.
-    * December 2021 - May 2022
 
-## SKILLS
-
-* Programming
-* Python
-* SQL
-* C++
-* MATLAB
-* TCL
-* ANSYS APDL
-* FEA
-* CAE
-  
-## EDUCATION
-
-* **Master of Technology (Machine Design)**
-    * Indian Institute of Technology (BHU), Varanasi
-    * Gold medalist
-    * 2022
-* **Bachelor of Technology (Mechanical Engineering)**
-    * National Institute of Technology, Patna
-    * 2018
-
-## CERTIFICATIONS
-
-* Machine Learning (Stanford University on Coursera)
-* Python for Data Science, AI & Development (Coursera)
-* Python for Data Structures, Algorithms (Udemy)
-* Mastering Programming with MATLAB (VANDERBILT UNIVERSITY on Coursera)
-* Databases and SQL for Data Science with Python (IBM on Coursera)
-* Data Visualization and Communication with Tableau (Duke University on Coursera)
-* HyperMesh 2019 Intermediate Examination (Altair University)
-* Linear &Non-Linear Analysis with OptiStruct Advanced Examination (Altair University)
-* Abaqus CAE: Learn Static and Dynamic Analysis (Udemy)
-* Geometric Dimensioning and Tolerancing (GD&T): Basics (Udemy)
-
-## HOBBIES
-* Sketching
-* Poetry
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iampramodyadav&show_icons=true&locale=en&layout=compact" alt="iampramodyadav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iampramodyadav&" alt="iampramodyadav" /></p>
 
